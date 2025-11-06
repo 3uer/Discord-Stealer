@@ -1,0 +1,2 @@
+# Discord-Stealer
+Nice Stealer
