@@ -1,0 +1,3 @@
+for install open "requirements" and install this modules for python 3.11
+now just run "UIDA.py" (DW he will ask you about Discord Webook like: Webhook: <yourwebhook>
+Have Fun >:)
